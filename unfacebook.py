@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# -*- coding: UNIX-8 -*-
+# -*- coding: UTF-8 -*-
 
 import sys
 import mechanize
