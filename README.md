@@ -10,10 +10,10 @@ apt upgrade
 
 apt install python2
 
-git clone https://github.com/FSOCIETY-coder-dz/UNIXFACEBOOK.git
+git clone https://github.com/FSOCIETY-coder-dz/FSO-FACEBOOK.git
 
-cd UNIXFACEBOOK
+cd FSO-FACEBOOK
 
 pip2 install mechanize
 
-python2 unfacebook.py
+python2 fsociety.py
