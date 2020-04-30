@@ -1,4 +1,4 @@
-# UNIXFACEBOOK
+# FSO-FACEBOOK
 
 # النسخة رقم 2 
 
@@ -10,7 +10,7 @@ apt upgrade
 
 apt install python2
 
-git clone https://github.com/MoussaUnix/UNIXFACEBOOK.git
+git clone https://github.com/FSOCIETY-coder-dz/UNIXFACEBOOK.git
 
 cd UNIXFACEBOOK
 
